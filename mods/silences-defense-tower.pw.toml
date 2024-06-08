@@ -1,0 +1,13 @@
+name = "Silence's Turrets"
+filename = "Silence's Turrets.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c44272edd1e0d0489b747ab14a0fac9bc10c985a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5186434
+project-id = 873924

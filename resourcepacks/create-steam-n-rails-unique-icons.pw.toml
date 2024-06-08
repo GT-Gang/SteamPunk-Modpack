@@ -1,0 +1,13 @@
+name = "Create: Steam 'n' Rails Unique Icons"
+filename = "SteamRailsUnique.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "480d1f9e678479af2dee3f6ace4305b3a495ac6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4778489
+project-id = 918616

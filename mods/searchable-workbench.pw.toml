@@ -1,0 +1,13 @@
+name = "Searchable Workbench"
+filename = "searchableworkbench-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e4458fab07677bf0bcf0c10e7582c31774a23d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5336603
+project-id = 1017231

@@ -1,0 +1,12 @@
+name = "SteamPunk [LPS]"
+version = "v23.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c61035c3c6891db0ba2c8311a69162c7fbabe34b14e67b8b1e12a1f916cad004"
+
+[versions]
+forge = "43.3.5"
+minecraft = "1.19.2"

@@ -1,0 +1,13 @@
+name = "Cold Sweat"
+filename = "ColdSweat-2.3-b03d.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bee4ebe071e5eaeb3d441cb45d2c48cd112561ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5349838
+project-id = 506194

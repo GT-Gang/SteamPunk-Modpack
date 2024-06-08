@@ -1,0 +1,13 @@
+name = "Create: ComputerCraft (CC: Tweaked)"
+filename = "Create Computers 1.2.1 - 1.19.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f7e22eb0ca0a3ab7382c290b49995df66bba97e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5230447
+project-id = 881633

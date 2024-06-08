@@ -1,0 +1,13 @@
+name = "Tempad With Shaders"
+filename = "tempadwithshaders-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8d13e26077d1963c8bc81713969b1a41e970255"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5347188
+project-id = 1019300
